@@ -47,7 +47,7 @@ public class MathCalculator{
         if(a<0) return(-1*a);
         else return a;
     }
-/**
+/** 
  * getSum method return a sum of two numbers received.
  * @param a number 1
  * @param b number 2
