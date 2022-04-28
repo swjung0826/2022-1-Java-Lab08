@@ -17,7 +17,7 @@ public class MathCalculator{
  */
     public String getName(){
         return name;
-    }
+    } 
 /**
  * getMax method return a bigger integer between two numbers received.
  * @param a number 1
