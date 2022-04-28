@@ -10,7 +10,7 @@ public class MathCalculator{
  */
     public void setName(String args){
         name=args;
-    }
+    }  
 /**
  * this getter method return the name of Mathdriver saved in private variable.
  * @return name this return a string value from private name variable
