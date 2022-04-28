@@ -2,7 +2,7 @@ package edu.handong.csee.java.hw2.math;
 /**
  * this class is MathCalculator which calculate various commands and operations
  */
-public class MathCalculator{
+public class MathCalculator{ 
     private String name;
 /**
  * this setter method receives a name of MathDriver and set the private variable.
