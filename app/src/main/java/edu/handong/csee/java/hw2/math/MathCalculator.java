@@ -37,7 +37,7 @@ public class MathCalculator{
     public int getMin(int a, int b){
         if(a<b) return a;
         else return b;
-    }
+    } 
 /**
  * getAbs method return an absolute value of a number received.
  * @param a number will convert to absolute value
